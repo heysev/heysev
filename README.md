@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Javascript, React, and more**
 
-- 📫 How to reach me **severine.hey.sev@gmail.com**
-
 - ⚡ Newly graduated from **Le Wagon ✨**
 
 <h3 align="left">Connect with me:</h3>
