@@ -7,7 +7,7 @@
 
 <h4> My bootcamp projects : </h4>
   - 🦆<a href="https://github.com/guapamole/duck-a-loc" target="blank"> Loc a Duck  </a>🦆 : an Airbnb clone to rend ducks
-  -  🥕<a href="https://github.com/guapamole/save-the-carrot" target="blank"> Save the Carrot </a> 🥕: a cooking app using IA to reduce food waste regarding the ingredients in your fridge 
+  - 🥕<a href="https://github.com/guapamole/save-the-carrot" target="blank"> Save the Carrot </a> 🥕: a cooking app using IA to reduce food waste regarding the ingredients in your fridge 
 
 <h4> My Troopl Portfolio : </h4>
 ➡️ <a href="https://troopl.com/severinebader" target="blank"><img align="center" src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/lpdj1t2hebvassrtms8h" alt="severinebader" height="30" width="30" /></a> ✨
