@@ -1,9 +1,14 @@
 <h1 align="left">Hi 👋, I'm Séverine !</h1>
-<h3 align="left">A highly motivated former Care expert, eager to become a frontend developer ✨</h3>
+<h3 align="left"> I am a junior Web Developer, living in Paris, France. ✨</h3>
 
-- 🌱 I’m currently learning **Javascript, React, and more**
+- 🌱 I’m currently learning to improve my skills in **Javascript, React,  CSS and Ruby on Rails**
 
 - ⚡ Newly graduated from **Le Wagon ✨**
+
+My bootcamp projects :
+  <ul> <a href="https://github.com/guapamole/duck-a-loc" target="blank"> - Loc a Duck 🦆 </a>  : an Airbnb clone to rend ducks </ul>
+  <ul> <a href="https://github.com/guapamole/save-the-carrot" target="blank"> - Save the Carrot 🥕 </a> : a cooking app using IA to reduce food waste regarding the ingredients in your fridge </ul>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
