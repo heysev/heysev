@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Séverine !</h1>
 <h3 align="left"> I am a junior Web Developer, living in Paris, France ✨</h3>
 
-- 🌱 I’m currently learning to improve my skills in **Javascript, React, CSS and Ruby on Rails**
+- 🌱 I’m currently looking to improve my skills in **Javascript, React, CSS and Ruby on Rails**
 
 - ⚡ Newly graduated from **Le Wagon**
 
